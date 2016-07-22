@@ -1,0 +1,30 @@
+body{
+	text-align:center;
+	background-image: url("img/shop.jpg");
+}
+h1{
+	background-color:#00aaff;
+	font-size:30px;
+	color:#ff3300;
+	font-family:Geneva, Arial, Helvetica, sans-serif;
+	text-align: center;
+}
+h2{
+	color:lime;
+	font-family:Geneva, Arial;
+	text-align: center;
+	font-size: 25px;
+}
+h3{
+	color:#990099;
+	font-size: 50px;
+}
+h4{
+	color:#003366;
+	font-size: 50px;
+}
+span{
+	
+	float: center;
+	}
+	
